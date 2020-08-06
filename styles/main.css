@@ -21,13 +21,29 @@
     --color-small-info: #C1BCCC;
 /*fonte padrão 16px - 100% - 1rem */
     font-size: 60%; /* controle das medidas rem */
+
 }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;         
+        -webkit-box-sizing: border-box; 
+        -moz-box-sizing: border-box;    
+        }
+
+
 html,
 body{
     height: 100vh;
 }
 body{
-    background-color: var(--color-primary-darker);
+    background-color: var(--color-background);
     display: flex;
     align-items: center;
     justify-content: center;

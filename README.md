@@ -8,27 +8,33 @@
 🚀 Tecnologias utilizadas
 
 O projeto está desenvolvido utilizando as seguintes tecnologias:
-
-    HTML
-    CSS
-    JavaScript
-    Node.js
-    Nunjucks
-    SQLite
-
+ <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Node.js</li>
+    <li>Nunjucks</li>
+    <li>SQLite</li>
+    </ul>
+ 
 ⌨ Como executar o projeto
 
-# Clonar o repositório
+<h3># Clonar o repositório</h3>
+
+````
 git clone https://github.com/reginaldosdj/NLW
-
-# Entrar no diretório
-
+````
+<h3># Entrar no diretório</h3>
+````
 cd NLW
-
-# Baixar as dependências
+````
+<h3># Baixar as dependências</h3>
+````
 npm i
-
-# Executar o servidor
+````
+<h3># Executar o servidor</h3>
+````
 npm run dev
+````
 
-Feito isso, abra o seu navegador e acesse http://localhost:5500/
+<h3>Feito isso, abra o seu navegador e acesse http://localhost:5500/</h3>

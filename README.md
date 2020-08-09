@@ -24,17 +24,19 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 ````
 git clone https://github.com/reginaldosdj/NLW
 ````
-<h3># Entrar no diretório</h3>
+<h3> Entrar no diretório</h3>
+
 ````
 cd NLW
 ````
-<h3># Baixar as dependências</h3>
+<h3> Baixar as dependências</h3>
+
 ````
 npm i
 ````
-<h3># Executar o servidor</h3>
+<h3> Executar o servidor</h3>
+
 ````
 npm run dev
 ````
-
 <h3>Feito isso, abra o seu navegador e acesse http://localhost:5500/</h3>
